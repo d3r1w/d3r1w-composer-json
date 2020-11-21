@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.d3r1w.d3r1wcomposerjson
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
